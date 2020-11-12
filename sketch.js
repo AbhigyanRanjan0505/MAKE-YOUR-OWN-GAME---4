@@ -18,22 +18,22 @@ var ghost3Turn5, ghost3Turn6, ghost4Turn2, ghost4Turn3, ghost4Turn4, ghost4Turn6
 var ghost4Turn5, a = 0, b = 0, c = 0;
 
 function preload() {
-    wall1I = loadImage("Images/Wall/Wall.png");
-    wall2I = loadImage("Images/Wall/Wall2.png");
-    wall3I = loadImage("Images/Wall/Wall3.png");
-    wall4I = loadImage("Images/Wall/Wall4.png");
-    wall5I = loadImage("Images/Wall/Wall5.png");
-    wall6I = loadImage("Images/Wall/Wall6.png");
-    wall7I = loadImage("Images/Wall/Wall7.png");
-    wall8I = loadImage("Images/Wall/Wall8.png");
-    wall9I = loadImage("Images/Wall/Wall9.png");
-    wall10I = loadImage("Images/Wall/Wall10.png");
-    wall11I = loadImage("Images/Wall/Wall11.png");
-    wall12I = loadImage("Images/Wall/Block.png");
+    wall1I = loadImage("./Images/Wall/Wall.png");
+    wall2I = loadImage("./Images/Wall/Wall2.png");
+    wall3I = loadImage("./Images/Wall/Wall3.png");
+    wall4I = loadImage("./Images/Wall/Wall4.png");
+    wall5I = loadImage("./Images/Wall/Wall5.png");
+    wall6I = loadImage("./Images/Wall/Wall6.png");
+    wall7I = loadImage("./Images/Wall/Wall7.png");
+    wall8I = loadImage("./Images/Wall/Wall8.png");
+    wall9I = loadImage("./Images/Wall/Wall9.png");
+    wall10I = loadImage("./Images/Wall/Wall10.png");
+    wall11I = loadImage("./Images/Wall/Wall11.png");
+    wall12I = loadImage("./Images/Wall/Block.png");
 
-    cherryI = loadImage("Images/Cherry.png");
-    gameOverI = loadImage("Images/GameOver.png");
-    coinI = loadImage("Images/Coin.png");
+    cherryI = loadImage("./Images/Cherry.png");
+    gameOverI = loadImage("./Images/GameOver.png");
+    coinI = loadImage("./Images/Coin.png");
 
     pacmanClosedI = loadImage("Images/Pacman/Close.png");
     pacmanRightA = loadImage("Images/Pacman/Right2.png");
