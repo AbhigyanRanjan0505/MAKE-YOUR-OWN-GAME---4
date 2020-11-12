@@ -35,19 +35,19 @@ function preload() {
     gameOverI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/GameOver.png");
     coinI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Coin.png");
 
-    pacmanClosedI = loadImage("Images/Pacman/Close.png");
-    pacmanRightA = loadImage("Images/Pacman/Right2.png");
-    pacmanLeftA = loadImage("Images/Pacman/PacmanLeft2.png");
-    pacmanUpA = loadImage("Images/Pacman/PacmanUp2.png");
-    pacmanDownA = loadImage("Images/Pacman/PacmanDown2.png");
+    pacmanClosedI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Pacman/Close.png");
+    pacmanRightA = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Pacman/Right2.png");
+    pacmanLeftA = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Pacman/PacmanLeft2.png");
+    pacmanUpA = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Pacman/PacmanUp2.png");
+    pacmanDownA = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Pacman/PacmanDown2.png");
 
-    ghost1I = loadImage("Images/Ghost/GhostRed.png");
-    ghost2I = loadImage("Images/Ghost/GhostOrange.png");
-    ghost3I = loadImage("Images/Ghost/Ghostyellow.png");
-    ghost4I = loadImage("Images/Ghost/GhostBlue.png");
-    fakeBlueGhostI = loadImage("Images/Ghost/FakeBlueGhost.png");
+    ghost1I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostRed.png");
+    ghost2I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostOrange.png");
+    ghost3I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/Ghostyellow.png");
+    ghost4I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostBlue.png");
+    fakeBlueGhostI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/FakeBlueGhost.png");
 
-    livesI = loadImage("Images/Lives.png");
+    livesI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Lives.png");
 }
 
 function setup() {
