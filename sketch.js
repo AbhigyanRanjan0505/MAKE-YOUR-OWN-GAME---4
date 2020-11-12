@@ -43,7 +43,7 @@ function preload() {
 
     ghost1I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostRed.png");
     ghost2I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostOrange.png");
-    ghost3I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/Ghostyellow.png");
+    ghost3I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostYellow.png");
     ghost4I = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/GhostBlue.png");
     fakeBlueGhostI = loadImage("../MAKE-YOUR-OWN-GAME---4/Images/Ghost/FakeBlueGhost.png");
 
